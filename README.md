@@ -1,7 +1,23 @@
-# Frutify-A-fruit-delivery-app
+# 🍎 Frutify – A Fruit Delivery App
 
-Built an app for delivering fruits for a business vendor.
-Just like swiggy,zomato applications.
+Frutify is a simple web application built for a fruit business vendor to enable **online fruit delivery**.  
+The app works similarly to food delivery platforms like **Swiggy** or **Zomato**, but is focused on delivering fresh fruits to customers.
 
----Tech Stack: 
-      Frontend: HTML.CSS 
+---
+
+## 🚀 Features
+- User-friendly interface for browsing fruits
+- Add to cart functionality (basic version / placeholder)
+- Order placement flow for customers
+- Simple and lightweight frontend design
+- Vendor-focused solution for managing fruit sales
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS  
+- *(Optional backend and database can be added later for full functionality)*
+
+---
+
+## 📂 Project Structure
